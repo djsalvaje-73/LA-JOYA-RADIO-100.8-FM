@@ -1,0 +1,16 @@
+
+{
+  "name": "LA JOYA 100.8 ",
+  "short_name": "DJ SALVAJE",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ffcc00",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/rRSPtNrZ/Presentaci-n14.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
